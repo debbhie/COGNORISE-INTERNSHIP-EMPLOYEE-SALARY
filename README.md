@@ -1,4 +1,4 @@
-## EMPLOYEE-SALARY
+![salaries 3](https://github.com/user-attachments/assets/6246a612-6ff8-4703-8a3a-b99e43b5ff34)## EMPLOYEE-SALARY
 
  ## TABLE OF CONTENT
 - [EMPLOYEE SALARIES OVERVIEW](#employee-salaries-overview)
@@ -72,6 +72,7 @@ Head of Data: $200,000
 Principal Data Engineer: $200,000
 Data Architect: $180,000
   These roles represent high-demand, high-responsibility positions within data science and analytics. The substantial median salaries indicate that professionals in these roles are well-compensated, especially for leadership or specialized technical positions like Data Analytics Lead and Principal Data Engineer.
+![salaries 2](https://github.com/user-attachments/assets/6d94d36e-a619-4771-8189-2b4f0ca68c8b)
 
 * Salary Range by Experience Level:
 EN (Entry-Level): $246,000
@@ -79,6 +80,7 @@ EX (Executive-Level): $530,259
 MI (Mid-Level): $447,141
 SE (Senior-Level): $393,093
  The salary range represents the difference between the highest and lowest salaries within each experience level. Executive-level roles have the widest range, reflecting diverse compensation packages that might include bonuses, stock options, or other benefits. Even within the same experience level, there can be substantial differences in pay based on job role, industry, and company.
+![salaries 3](https://github.com/user-attachments/assets/42191ec5-2699-4175-a426-1fa2398ca3d0)
 
 * Percentage of Employees by Experience Level:
 SE (Senior-Level): 46.13%
@@ -86,6 +88,7 @@ MI (Mid-Level): 35.09%
 EN (Entry-Level): 14.50%
 EX (Executive-Level): 4.28%
  The distribution shows a significant concentration of employees at the senior and mid-levels. This suggests that the organization may prioritize experience and expertise, with fewer positions available for entry-level or executive roles. The lower percentage of executives is typical, as these roles are usually fewer in number and higher in authority.
+![salaries 4](https://github.com/user-attachments/assets/e947500d-b928-48d1-a886-b285e649e7ed)
 
 * Ratio of Employment Type:
 FT (Full-Time): 96.87%
@@ -93,6 +96,7 @@ PT (Part-Time): 1.65%
 CT (Contract): 0.82%
 FL (Freelance): 0.66%
  The overwhelming majority of employees are full-time, indicating a stable workforce with fewer part-time, contract, or freelance positions. This suggests that the company values long-term employment relationships, possibly due to the need for continuity and stability in roles that require ongoing development and deep understanding.
+![salaries 5](https://github.com/user-attachments/assets/0aaa36d6-c6bf-4e8a-9930-26f1844b43ac)
 
 * Year Over Year Percentage Change in Average Salary:
 2020: $95,813 (Baseline year)
@@ -124,6 +128,7 @@ SE (Senior-Level): 75.89%
 - Executives and Senior-Level Employees have the highest average remote work percentages. This indicates that higher-ranking positions are more likely to have the flexibility to work remotely, possibly due to their greater autonomy and the nature of their responsibilities, which might not require daily on-site presence.
 - Mid-Level Employees have the lowest average remote work percentage. This may be because they are often in roles that require coordination between teams, necessitating more frequent in-person interactions.
 - Entry-Level Employees also have a relatively high percentage of remote work, reflecting the trend of integrating remote work even at the beginning stages of an employee's career.
+![salaries 6](https://github.com/user-attachments/assets/a8230ab1-fd82-4ce2-af4d-aa7559a022c9)
 
 * Percentage of Employees Working Remotely: 79.08%
   A large majority (79.08%) of employees are working remotely, which reinforces the company’s strong inclination towards remote work. This trend might be a response to employee preferences, operational flexibility, or external factors like the COVID-19 pandemic, which accelerated remote work adoption.
@@ -137,6 +142,7 @@ Medium Companies (M): $116,905.47
 Small Companies (S): $77,632.67
  Large and Medium Companies offer significantly higher average salaries compared to Small Companies. This is typical, as larger organizations generally have more resources and can offer more competitive salaries to attract top talent.
 Small Companies tend to offer lower salaries, possibly due to limited budgets or resources. However, they may compensate with other benefits such as equity, flexible work conditions, or opportunities for rapid career growth.
+![salaries 7](https://github.com/user-attachments/assets/ddf666e1-63b0-4605-a23a-290468b8528c)
 
 * Trends in Employment Type Proportion Over the Years:
 - 2020: Full-Time (FT) 94.44%, Part-Time (PT) 2.78%, Contract (CT) 1.39%, Freelance (FL) 1.39%
