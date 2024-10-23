@@ -63,6 +63,7 @@ EX (Executive-Level): $199,392.04
 MI (Mid-Level): $87,996.06
 SE (Senior-Level): $138,617.29
   As expected, salaries increase with experience. Entry-level positions have the lowest average salary, while executive-level roles command the highest. Senior-level employees earn significantly more than mid-level and entry-level employees, reflecting their expertise and responsibilities.
+![salaries 1](https://github.com/user-attachments/assets/b50b7cb6-9510-4a88-97ed-24fc39d7c006)
 
 * Top 5 Median Salaries in USD:
 Data Analytics Lead: $405,000
