@@ -1,5 +1,3 @@
-![salaries 3](https://github.com/user-attachments/assets/6246a612-6ff8-4703-8a3a-b99e43b5ff34)## EMPLOYEE-SALARY
-
  ## TABLE OF CONTENT
 - [EMPLOYEE SALARIES OVERVIEW](#employee-salaries-overview)
 - [LANDING PAGE](#landing-page)
